@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+img{height: 500px;
+}
+h1,h2{color: darkblue;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+p{color: darkgreen;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
